@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-mvc-graphql-rest",
+  "version": "1.0.0",
+  "description": "complete node.js guide",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohchanghoon/nodejs-mvc-graphql-rest.git"
+  },
+  "author": "changhoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohchanghoon/nodejs-mvc-graphql-rest/issues"
+  },
+  "homepage": "https://github.com/ohchanghoon/nodejs-mvc-graphql-rest#readme"
+}
