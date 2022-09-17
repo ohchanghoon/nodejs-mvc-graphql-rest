@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ohchanghoon/nodejs-mvc-graphql-rest#readme",
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
   }
 }
