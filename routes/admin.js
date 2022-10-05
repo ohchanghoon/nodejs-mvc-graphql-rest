@@ -8,6 +8,7 @@ const router = express.Router();
 
 const products = [];
 
+// test
 // /admin/add-product => GET
 router.get('/add-product', productsController.getAddProduct);
 
